@@ -1,0 +1,33 @@
+_repo: The-Red-Glutton-With-the-German-Army-at-the-Front_61177
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cobb, Irvin S. (Irvin Shrewsbury)
+    alias: Cobb, Irvin Shrewsbury
+    birthdate: 1876
+    deathdate: 1944
+    gutenberg_agent_id: '559'
+    url: http://www.gutenberg.org/2009/agents/559
+    wikipedia: http://en.wikipedia.org/wiki/Irvin_S._Cobb
+description: ''
+gutenberg_issued: '2020-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61177'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Personal narratives'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Western Front'
+- GITenberg
+tableOfContents: 'A little village called Montignies St. Christophe -- To war in a
+  taxicab -- Sherman said it -- "Marsch, marsch, marsch, so geh''n wir weiter" --
+  Being a guest of the Kaiser -- With the German wrecking crew -- The grapes of wrath
+  -- Three generals and a cook -- Viewing a battle from a balloon -- In the trenches
+  before Rheims -- War de luxe -- The rut of big guns in France -- Those yellow pine
+  boxes -- The red glutton -- Belgium: the rag doll of Europe -- Louvain the forsaken.'
+title: 'The Red Glutton: With the German Army at the Front'
+url: http://www.gutenberg.org/ebooks/61177
